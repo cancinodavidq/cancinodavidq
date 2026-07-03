@@ -1,7 +1,7 @@
 # ¡Hola! Soy David Cancino Quintero 🚀
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="AI & Code Orchestration Banner" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=100&lines=AI+Architect++%26++LLM+Pipelines+Engineer;Multi-Agent+Orchestration+with+LangGraph;LLM+Observability+with+Langfuse;La+IA+se+forma%2C+no+se+instala..." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,8 +9,6 @@
   <a href="mailto:cancino.davidq@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://efset.org/cert/71100"><img src="https://img.shields.io/badge/English-C2_Proficient-green?style=for-the-badge" alt="English C2"></a>
 </p>
-
----
 
 ### 👨‍💻 Perfil Profesional
 
