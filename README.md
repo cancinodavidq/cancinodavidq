@@ -49,20 +49,6 @@ Durante los últimos 3+ años me he especializado en diseñar, optimizar y despl
 * **LLM Classification Engine:** Motor corporativo de clasificación de tickets con >90% de precisión utilizando esquemas de salida estructurados y guardrails de validación (10k+ transacciones mensuales).
 * **AI Cost & Reliability Monitor:** Dashboard de observabilidad instrumentado para el rastreo de uso de APIs de LLM que logró reducir el consumo de tokens en un 11%.
 
----
-
-### 📊 Actividad en GitHub
-
-Aquí puedes ver el desglose de mis contribuciones e interacciones en la plataforma:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cancinodavidq&show_icons=true&theme=visual_studio_dark&count_private=true" alt="Estadísticas de David" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cancinodavidq&layout=compact&theme=visual_studio_dark" alt="Lenguajes más usados" />
-</p>
-
----
 
 ### 🎓 Certificaciones Destacadas
 
